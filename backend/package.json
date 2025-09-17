@@ -1,0 +1,20 @@
+{
+  "name": "smart-retail-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7",
+    "qrcode": "^1.5.4"
+  },
+  "description": "This backend is built with Express.js, Node.js, and Mongoose for the Smart Retail Promotions Hub application. It provides APIs for managing retail campaigns and products.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
