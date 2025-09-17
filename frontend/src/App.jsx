@@ -1,7 +1,7 @@
 import './App.css';
 import { useState, useEffect } from 'react';
 
-const API_BASE = 'http://localhost:8000';
+const API_BASE = 'https://i-qua-workshop.vercel.app';
 const API_KEY = 'skretail_4f8c2e1b9a2d'; // Use this key in backend too
 
 function App() {
